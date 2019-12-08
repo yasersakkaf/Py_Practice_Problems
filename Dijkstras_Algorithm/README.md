@@ -1,6 +1,6 @@
 ## Implementation of Dijkstra's Algorithm using Python
 
-## `implementaion.py` is a solution or the following problem statement.
+### `implementaion.py` is a solution for the following problem statement.
 
 ### Problem Statement
 
