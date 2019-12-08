@@ -22,4 +22,5 @@ There is an apartment which is designed in a way where we have N floors and each
 ![alt_text](https://github.com/yasersakkaf/Py_Practice_Problems/blob/master/Dijkstras_Algorithm/Screenshot.png)
 
 ### Example Execution (Failure):
+Following example failed since there are no stairs on Floor 3
 ![alt_text](https://github.com/yasersakkaf/Py_Practice_Problems/blob/master/Dijkstras_Algorithm/Failed.png)
