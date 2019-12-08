@@ -19,5 +19,5 @@ There is an apartment which is designed in a way where we have N floors and each
   Note: The destination flat is not counted.
 
 ### Example Execution:
-![alt_text](https://https://github.com/yasersakkaf/Py_Practice_Problems/blob/master/Dijkstras_Algorithm/Screenshot.png)
+![alt_text](https://github.com/yasersakkaf/Py_Practice_Problems/blob/master/Dijkstras_Algorithm/Screenshot.png)
 
