@@ -18,6 +18,8 @@ There is an apartment which is designed in a way where we have N floors and each
   The minimum number of flats Ram has to traverse to reach to the desired flat.
   Note: The destination flat is not counted.
 
-### Example Execution:
+### Example Execution (Successful):
 ![alt_text](https://github.com/yasersakkaf/Py_Practice_Problems/blob/master/Dijkstras_Algorithm/Screenshot.png)
 
+### Example Execution (Failure):
+![alt_text](https://github.com/yasersakkaf/Py_Practice_Problems/blob/master/Dijkstras_Algorithm/Failed.png)
